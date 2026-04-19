@@ -37,108 +37,93 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90">
     </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://miro.medium.com/max/1400/1*safAvjgR68qpQCreDTOcYA.png">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://steppingstone.in/images/logos/express.png"> <!-- ExpressJs Logo -->
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png">
-    </td>
-    <td align='center'>
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60"> <!-- Python Logo -->
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="40" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60">  <!-- VSCode Logo -->
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center'>
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"> <!-- Mongodb Logo -->
-    </td>
-    <td align='center'>
-        <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png">
-    </td>
-    <td align='center'>
-        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png"> <!-- NestJs Logo -->
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-4924303-4102054.png" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/polygon-4924309-4102060.png" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
-    </td>
-    <td align='center'>
-        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/nft-logo-4731044-3934303.png" width="110">
-    </td>
-    <td align='center'>
-        <img src="https://miro.medium.com/v2/resize:fit:1400/1*W1aGmyVwe5kKGuyTvzdUEg.png" width="110">
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80">
     </td>
 </tr>
 
 <tr>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> <!-- AWS Logo -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+        <img src="https://matplotlib.org/_static/images/logo2.svg" width="90">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://globalittrainers.com/wp-content/uploads/2021/06/Devops-logo1.png" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://i.pinimg.com/originals/40/58/3b/40583b9485486616cc310cf5c5282b85.png"> <!-- GCP Logo -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenCV_Logo_with_text.png" width="90">
     </td>
 </tr>
-    
+
+<tr>
+    <td align='center'>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Keras_logo.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/LightGBM_logo_black_text.svg" width="90">
+    </td>
+    <td align='center'>
+        <img src="https://xgboost.ai/images/logo/xgboost-logo.png" width="90">
+    </td>
+</tr>
+
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Docker_Logo.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60">
+    </td>
+</tr>
+
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="90">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Cloud_logo.svg" width="90">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="80">
+    </td>
+</tr>
 </table>
 
 <br />
