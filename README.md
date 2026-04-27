@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraheem Rahid</h1>   
  <h3 align="center">I am a AI/ML Developer.</h3>
  
-<p align="left">  
+<p align="left">   
   <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20views&color=red&style=flat" alt="Abraheem13" /> 
 </p> 
 
