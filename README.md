@@ -39,96 +39,127 @@
 
 <h2><i>💻 Tech Stack</i></h2>
 
-<table width="100">
+<table align="center">
 <tr>
-    <td align='center' width="190">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90">
-    </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80">
-    </td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-big-data-flaticons-lineal-color-flat-icons.png"/><br>ML
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-deep-learning-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png"/><br>DL
+</td>
+
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://matplotlib.org/_static/images/logo2.svg" width="90">
-    </td>
-    <td align='center'>
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Plotly-logo.png" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenCV_Logo_with_text.png" width="90">
-    </td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>NumPy
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>Pandas
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br>Matplotlib
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/statistics.png"/><br>Seaborn
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>Scikit-learn
+</td>
+
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Keras_logo.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="90">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/LightGBM_logo_black_text.svg" width="90">
-    </td>
-    <td align='center'>
-        <img src="https://xgboost.ai/images/logo/xgboost-logo.png" width="90">
-    </td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60"/><br>PyCharm
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br>Jupyter
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"/><br>Colab
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/source-code.png"/><br>Programiz
+</td>
+
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Docker_Logo.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60">
-    </td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/mind-map.png"/><br>Ferola
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/chatgpt.png"/><br>ChatGPT
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/brain.png"/><br>DeepSeek
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub
+</td>
+
 </tr>
 
 <tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="90">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Cloud_logo.svg" width="90">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="80">
-    </td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/adobe-photoshop.png"/><br>Adobe
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/notion.png"/><br>Notion
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/video-editing.png"/><br>CapCut
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/canva.png"/><br>Canva
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/zoom.png"/><br>Zoom
+</td>
+
 </tr>
+
 </table>
 
 <br />
