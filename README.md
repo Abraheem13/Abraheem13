@@ -39,7 +39,7 @@
 
 <h2><i>💻 Tech Stack</i></h2>
 
-<table align="center">
+<table align="left">
 <tr>
 
 <td align="center">
