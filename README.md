@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abraheem Rahid</h1>   
- <h3 align="center">I am a AI/ML Developer.</h3>
+<a href="https://github.com/Abraheem13">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Abraheem13&data=followers,repositories,stars,commits&theme=rgb">
+</a>
+
+
+<h1 align="left">Hi 👋, I'm Abraheem Rahid</h1>   
+ <h3 align="left">I am a AI/ML Developer.</h3>
  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20views&color=red&style=flat" alt="Abraheem13" /> 
