@@ -175,7 +175,7 @@
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <!-- <a href="https://www.muhammadkumail.com"><img src="https://img.shields.io/badge/-muhammadkumail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/abraheem-rashid-8b46102a9">
   <img src="https://img.shields.io/badge/-Abraheem%20Rashid-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
