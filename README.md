@@ -178,22 +178,38 @@
 <table>
 <tr>
 
+<!-- LEFT SIDE: TECH STACK -->
+<td valign="top">
+
+<!-- RIGHT SIDE: CONNECT -->
+<td valign="top">
+
+<h2>🤝🏻 Connect with Me</h2>
+
+<table>
+<tr>
+
 <td align="center">
 <a href="https://linkedin.com/in/abraheem-rashid-8b46102a9">
-<img src="https://img.icons8.com/color/48/linkedin.png"/><br>LinkedIn
+<img src="https://img.icons8.com/color/60/linkedin.png"/><br>LinkedIn
 </a>
 </td>
 
 <td align="center">
 <a href="mailto:abraheemr@yahoo.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/><br>Email
+<img src="https://img.icons8.com/color/60/gmail-new.png"/><br>Email
 </a>
 </td>
 
 <td align="center">
 <a href="https://www.instagram.com/abraheem_rashid/">
-<img src="https://img.icons8.com/color/48/instagram-new.png"/><br>Instagram
+<img src="https://img.icons8.com/color/60/instagram-new.png"/><br>Instagram
 </a>
+</td>
+
+</tr>
+</table>
+
 </td>
 
 </tr>
