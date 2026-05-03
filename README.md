@@ -175,12 +175,6 @@
 
 ## 🤝🏻 Connect with Me
 
-<!-- LEFT SIDE: TECH STACK -->
-<td valign="top">
-
-<!-- RIGHT SIDE: CONNECT -->
-<td valign="top">
-
 <h2>🤝🏻 Connect with Me</h2>
 
 <table>
