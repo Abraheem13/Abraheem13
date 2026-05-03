@@ -173,19 +173,29 @@
 
 <br />
 
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 Connect with Me
 
-<p align="left">
-<!-- <a href="https://www.muhammadkumail.com"><img src="https://img.shields.io/badge/-muhammadkumail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<table>
+<tr>
+
+<td align="center">
 <a href="https://linkedin.com/in/abraheem-rashid-8b46102a9">
-  <img src="https://img.shields.io/badge/-Abraheem%20Rashid-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/linkedin.png"/><br>LinkedIn
 </a>
+</td>
 
+<td align="center">
 <a href="mailto:abraheemr@yahoo.com">
-  <img src="https://img.shields.io/badge/-abraheemr@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png"/><br>Email
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.instagram.com/abraheem_rashid/">
-  <img src="https://img.shields.io/badge/-@abraheem__rashid-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/instagram-new.png"/><br>Instagram
 </a>
+</td>
+
+</tr>
+</table>
 <!-- <a href="https://facebook.com/socialyadept"><img src="https://img.shields.io/badge/-@socialyadept-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
