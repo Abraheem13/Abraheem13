@@ -13,13 +13,13 @@
 
 - 🌐 I am a graudate student at Brunel University
   
-- 🌐 In the past, I have lead major tech communities i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
+- 🌐 In the past, I have lead major tech communities i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abraheem13)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abraheem13).
 
-- 💬 Ask me about **React, Full Stack Development, Blockchain, Javascript, Android, ML, Cloud Native Computing**
+- 💬 Ask me about **React, Full Stack Development, Blockchain, Javascript, Android, ML, Cloud Native Computing**.
 
-- 📫 Reach me via [Email](mailto:abraheemr@yahoo.com)
+- 📫 Reach me via [Email](mailto:abraheemr@yahoo.com).
 
 <!--- 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)-->
 
