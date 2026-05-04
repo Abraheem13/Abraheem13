@@ -23,15 +23,15 @@
 
 <!--- 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)-->
 
-- 🔭 I’m working on **my own products** as a side hustle
+- 🔭 I’m working on **my own products** as a side hustle.
 
-- 🌱 Lately, I'm learning **Nested Learning**
+- 🌱 Lately, I'm learning **Nested Learning**.
 
-- 👯 I’m looking to collaborate on **Any Open Source Project**
+- 👯 I’m looking to collaborate on **Any Open Source Project**.
 
-- ⚡ Fun fact **I love to speak publically** 
+- ⚡ Fun fact **I love to speak publically** .
 
-- I love to study new technologies and read articles in my free time
+- I love to study new technologies and read articles in my free time.
 
 <br />
 
