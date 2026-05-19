@@ -182,7 +182,7 @@
 
 <br />
 
-<h2>🤝🏻 Connect with Me</h2>
+<h2>Connect with Me 🤝🏻</h2>
 
 <table>
 <tr>
