@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Abraheem Rahid</h1>   
- <h3 align="left">I am a AI/ML Engineer</h3>
+ <h3 align="left">I am a AI/ML Engineer.</h3>
  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20views&color=red&style=flat" alt="Abraheem13" /> 
