@@ -189,6 +189,23 @@
 <br>
 
 
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+[![Abraheem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abraheem13&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Abraheem13)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abraheem13&theme=github_dark"/>
+</p>
+
+<div align="center">
+
+
 <br />
 
 <h2>Connect with Me 🤝🏻</h2>
