@@ -9,33 +9,31 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20views&color=red&style=flat" alt="Abraheem13" /> 
 </p> 
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+- 🌐 I am a graduate student at Brunel University
 
-- 🌐 I am a graudate student at Brunel University
-  
-- 🌐 In the past, I have lead major tech communities i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**.
+- 🌐 In the past, I have led major tech communities as a **DSC Lead, Microsoft Learn Student Ambassador, and AWS Educate Cloud Ambassador**.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abraheem13).
 
-- 💬 Ask me about **React, Full Stack Development, Blockchain, Javascript, Android, ML, Cloud Native Computing**.
+- 💬 Ask me about **React, Full Stack Development, Blockchain, JavaScript, Android, Machine Learning, and Cloud Native Computing**.
 
 - 📫 Reach me via [Email](mailto:abraheemr@yahoo.com).
 
-<!--- 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume)-->
+<!-- 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume) -->
 
 - 🔭 I’m working on **my own products** as a side hustle.
 
 - 🌱 Lately, I'm learning **Nested Learning**.
 
-- 👯 I’m looking to collaborate on **Any Open Source Project**.
+- 👯 I’m looking to collaborate on **any Open Source Project**.
 
-- ⚡ Fun fact **I love to speak publically** .
+- ⚡ Fun fact: **I love public speaking.**
 
-- I love to study new technologies and read articles in my free time.
+- 📚 I love exploring new technologies and reading articles in my free time.
 
-<br />
-
- <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br clear="right"/>
 
 <!-- <h2><i>💻 Tech Stack</i></h2>
 
