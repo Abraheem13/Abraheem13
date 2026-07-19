@@ -1,239 +1,177 @@
-<a href="https://github.com/Abraheem13"> 
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Abraheem13&data=followers,repositories,stars,commits&theme=rgb">
-</a>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Raja%20Abraheem%20Rashid%20Ejaz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Researcher%20%C2%B7%20Nested%20%26%20Multi-Timescale%20Learning&descAlignY=55&descSize=18" />
 
+<p align="center">
+  <a href="https://github.com/Abraheem13">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=MSc+Artificial+Intelligence+%40+Brunel+University+London;AI+Researcher+%26+Co-Investigator+%40+TRL%2C+IBA+Karachi;AI%2FML+Engineer+%40+Curium+%C2%B7+Software+Engineer+%40+EMS;Nested+Learning+%7C+Federated+Learning+%7C+Efficient+LLM+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="left">Hi 👋, I'm Abraheem Rahid</h1>   
- <h3 align="left">I am a AI/ML Engineer.</h3>
- 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20views&color=red&style=flat" alt="Abraheem13" /> 
-</p> 
-<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=Q86zgBgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Raja-Abraheem-Rashid-Ejaz"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+  <a href="https://abraheemrashid.com"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abraheem-rashid-8b46102a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abraheemrashid@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+</p>
 
-- 🌐 I am a graduate student at Brunel University
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20Views&color=38BDF8&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/github/followers/Abraheem13?label=Followers&style=flat-square&color=38BDF8" alt="followers" />
+</p>
 
-- 🌐 In the past, I have led major tech communities as a **DSC Lead, Microsoft Learn Student Ambassador, and AWS Educate Cloud Ambassador**.
+---
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Abraheem13).
+<!-- ===================== ABOUT ===================== -->
+<img align="right" alt="Coding GIF" width="330" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 💬 Ask me about **React, Full Stack Development, Blockchain, JavaScript, Android, Machine Learning, and Cloud Native Computing**.
+## 🧠 About Me
 
-- 📫 Reach me via [Email](mailto:abraheemr@yahoo.com).
+I build **nested, multi-timescale learning systems** — models that learn and synchronise at different frequencies across layers, agents, and devices.
 
-<!-- 📄 Know about my recent experiences [watch my resume](https://muhammadkumail.com/resume) -->
-
-- 🔭 I’m working on **my own products** as a side hustle.
-
-- 🌱 Lately, I'm learning **Nested Learning**.
-
-- 👯 I’m looking to collaborate on **any Open Source Project**.
-
-- ⚡ Fun fact: **I love public speaking.**
-
-- 📚 I love exploring new technologies and reading articles in my free time.
+- 🎓 **MSc Artificial Intelligence**, Brunel University London — dissertation on adaptive orchestration for cost-efficient LLM agent systems
+- 🔬 **AI Researcher & Co-Investigator**, Telecommunications Research Lab (TRL), IBA Karachi
+- 🚗 **AI/ML Engineer** at **Curium** — multi-sensor calibration (LiDAR · radar · camera) for autonomous perception
+- 💼 **Software Engineer (AI/ML)** at **Electronic Media Services**, London
+- 🛡️ Previously **AI Research Engineer**, National CERT (Govt. of Pakistan) — LLM-based SIEM across 200+ federal organisations
+- 🌍 Publishing with collaborators across the **UK, US, UAE, Pakistan, Saudi Arabia & Oman**
+- 📚 Currently deep in **nested learning, federated unlearning, and agentic LLM efficiency**
+- 💬 Ask me about **federated learning, multi-timescale RL, LLM orchestration, or 6G network intelligence**
 
 <br clear="right"/>
 
-<!-- <h2><i>💻 Tech Stack</i></h2>
+---
 
-<table align="center">
+<!-- ===================== RESEARCH ===================== -->
+## 🔬 Research Focus
+
+<table>
 <tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/60/artificial-intelligence.png"/><br><b>Nested Learning</b><br><sub>Layer-wise multi-frequency synchronisation across timescales</sub>
 </td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/60/data-protection.png"/><br><b>Federated & Privacy</b><br><sub>Federated unlearning, differential privacy, data-rights compliance</sub>
 </td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/60/chatbot.png"/><br><b>Efficient LLM Systems</b><br><sub>Agentic orchestration, semantic caching, model routing</sub>
 </td>
-
-<td align="center">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-big-data-flaticons-lineal-color-flat-icons.png"/><br>ML
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-deep-learning-artificial-intelligence-soft-fill-soft-fill-juicy-fish.png"/><br>DL
-</td>
-
 </tr>
-
 <tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>NumPy
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/60/wifi-router.png"/><br><b>6G & Network AI</b><br><sub>Multi-agent RL for slicing and Open-RAN resource allocation</sub>
 </td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>Pandas
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/60/heart-with-pulse.png"/><br><b>Clinical & Biomedical AI</b><br><sub>ECG classification, vessel segmentation, cross-hospital prediction</sub>
 </td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60"/><br>Matplotlib
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/60/security-checked.png"/><br><b>Security & Forensics</b><br><sub>Ransomware detection, intrusion detection, multi-agent forensics</sub>
 </td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/statistics.png"/><br>Seaborn
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br>Scikit-learn
-</td>
-
 </tr>
+</table>
 
-<tr>
+---
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60"/><br>PyCharm
-</td>
+<!-- ===================== PUBLICATIONS ===================== -->
+## 📄 Selected Publications
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code
-</td>
+> Full list on <a href="https://scholar.google.com/citations?user=Q86zgBgAAAAJ&hl=en">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Raja-Abraheem-Rashid-Ejaz">ResearchGate</a>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br>Jupyter
-</td>
+**Published**
+- **Nested Multi-Agent Reinforcement Learning for Adaptive Resource Management in 6G Network Slicing** — *IEEE Open Journal of the Communications Society*, 2026 ![Published](https://img.shields.io/badge/-Published-2ea44f?style=flat-square)
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="60"/><br>Colab
-</td>
+**Accepted / In Press**
+- **HADES:** Hierarchical Autonomous Digital Evidence System via Skill-Driven Multi-Agent Orchestration — *WI 2026, Linz* ![Accepted](https://img.shields.io/badge/-Accepted-blue?style=flat-square)
+- **Hierarchical Bayesian Nested Optimisation** for Uncertainty-Aware Resource Allocation in 6G Open-RAN ![Accepted](https://img.shields.io/badge/-Accepted-blue?style=flat-square)
+- **Training-Free Coarse Point Cloud Registration** via Axis-Projected Surface Area Matching — *ICCVDM 2026* ![Accepted](https://img.shields.io/badge/-Accepted-blue?style=flat-square)
+- **TEMPEST:** Temporal Execution Modeling for Pre-Encryption Ransomware Detection ![Accepted](https://img.shields.io/badge/-Accepted-blue?style=flat-square)
 
-<td align="center">
-<img src="https://img.icons8.com/color/48/source-code.png"/><br>Programiz
-</td>
+**Under Review**
+- **Nested Federated Learning:** Layer-Wise Multi-Frequency Synchronization — *Cognitive Computation* ![Under Review](https://img.shields.io/badge/-Under_Review-orange?style=flat-square)
+- **Nested Learning for Adaptive-Fidelity ECG Classification** (Matryoshka representations, wearable-to-cloud) — *IEEE JBHI* ![Under Review](https://img.shields.io/badge/-Under_Review-orange?style=flat-square)
+- **Nested Learning for Multi-Timescale EV Charging Coordination** with hard voltage guarantees — *IEEE Trans. Smart Grid* ![Under Review](https://img.shields.io/badge/-Under_Review-orange?style=flat-square)
+- **DP-f-FUM:** Differentially Private Federated Unlearning — *FLTA 2026* ![Under Review](https://img.shields.io/badge/-Under_Review-orange?style=flat-square)
+- **NestAnt:** Nested-Learning Surrogate for Continual Multi-Band Antenna Design — *IEEE GLOBECOM 2026* ![Under Review](https://img.shields.io/badge/-Under_Review-orange?style=flat-square)
 
-</tr>
+---
 
-<tr>
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Selected Engineering Work
 
-<td align="center">
-<img src="https://img.icons8.com/color/48/mind-map.png"/><br>Ferola
-</td>
+| Project | What it does | Stack |
+|---|---|---|
+| **LLM-Powered SIEM** *(NCERT, 2025)* | National SOC pipeline — Kafka ingestion → quantized inference → automated alert routing, 25M+ logs/day | `PyTorch` `HuggingFace` `DeepSpeed` `Kafka` `K8s` |
+| **Enterprise Multi-Agent RAG** | Hierarchical agent orchestration + hybrid retrieval; accuracy 76% → 89% at sub-200 ms | `gRPC` `Llama.cpp` `Qdrant` `Elasticsearch` `Redis` |
+| **Thermal Industrial Monitoring** | ViT+CNN with spatio-temporal GNNs; 90–95% accuracy via contrastive learning | `PyTorch` `timm` `PyG` |
+| **ZazuAI — Meeting Intelligence** | Dual-pipeline speech: real-time (<500 ms) + high-accuracy post-processing (96%) | `Whisper.cpp` `DIART` `WhisperX` |
 
-<td align="center">
-<img src="https://img.icons8.com/color/48/chatgpt.png"/><br>ChatGPT
-</td>
+---
 
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/brain.png"/><br>DeepSeek
-</td>
+<!-- ===================== STACK ===================== -->
+## 🛠️ Tech Stack
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/adobe-photoshop.png"/><br>Adobe
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/notion.png"/><br>Notion
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/video-editing.png"/><br>CapCut
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/canva.png"/><br>Canva
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/zoom.png"/><br>Zoom
-</td>
-
-</tr>
-
-</table> -->
-
-## My Skill Set 🛠️:
-
-> Tools, languages, and other things I am working with.
-<a href="https://github.com/arhamansari11/">
-<p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
+<p align="center">
+  <img src="https://skills.syvixor.com/api/icons?i=python,cpp,pytorch,tensorflow,jax,huggingface,opencv,numpy,pandas,scikitlearn,docker,kubernetes,kafka,redis,postgresql,elasticsearch,fastapi,git,github,linux,bash,aws,anaconda,vscode,pycharm,googlecolaboratory,kaggle,notion" />
 </p>
-</a>
-
-<br />
-<br />
-
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.icons8.com/color/72/amazon-web-services.png" alt="AWS" width="40" height="40"/></a><a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/72/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/72/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/72/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p> -->
-
- ## Github Stats📈:
-
- <p align="center">
-   <a href="https://github.com/Abraheem13"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraheem13&show_icons=true&locale=en&layout=demo&theme=tokyonight&hide_border=true" /> 
-   </a>  
- </p> 
-
-<br>
-
-
-## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-[![Abraheem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abraheem13&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Abraheem13)
+`LoRA / QLoRA` · `RAG` · `INT8 / INT4 Quantization` · `DeepSpeed` · `FSDP` · `MLflow` · `Weights & Biases` · `Distributed Training`
 
 </div>
 
 ---
 
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abraheem13&theme=github_dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abraheem13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraheem13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Abraheem13&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abraheem13&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abraheem13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
 
-<h2>Connect with Me 🤝🏻</h2>
+---
 
-<table>
-<tr>
+<!-- ===================== HONORS ===================== -->
+## 🏆 Honors & Awards
 
-<td align="center">
-<a href="https://linkedin.com/in/abraheem-rashid-8b46102a9">
-<img src="https://img.icons8.com/color/60/linkedin.png"/><br>LinkedIn
-</a>
-</td>
+- 🎯 **Selected Participant**, CISPA Summer School 2026 — Federated Learning track *(Helmholtz Center for Information Security)*
+- 🇵🇰 **Selected to Pakistan's National AI Research Team**, NCERT (2025)
+- 📜 **Letter of Appreciation** from the Director General, NCERT — national SOC initiative (2025)
+- 💰 **NESCOM Research Funding** — intelligent UAV communications (2024)
+- 🎤 **Industry Trainer**, IBA CICT — professional program on Agentic AI & Intelligent Automation
 
-<td align="center">
-<a href="mailto:abraheemr@yahoo.com">
-<img src="https://img.icons8.com/color/60/gmail-new.png"/><br>Email
-</a>
-</td>
+---
 
-<td align="center">
-<a href="https://www.instagram.com/abraheem_rashid/">
-<img src="https://img.icons8.com/color/60/instagram-new.png"/><br>Instagram
-</a>
-</td>
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Connect
 
-</tr>
-</table>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=Q86zgBgAAAAJ&hl=en"><img src="https://img.icons8.com/color/56/google-scholar--v2.png"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/Raja-Abraheem-Rashid-Ejaz"><img src="https://img.icons8.com/color/56/researchgate.png"/></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/abraheem-rashid-8b46102a9"><img src="https://img.icons8.com/color/56/linkedin.png"/></a>
+  &nbsp;&nbsp;
+  <a href="mailto:abraheemrashid@outlook.com"><img src="https://img.icons8.com/color/56/gmail-new.png"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Abraheem13"><img src="https://img.icons8.com/fluency/56/github.png"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/abraheem_rashid/"><img src="https://img.icons8.com/color/56/instagram-new.png"/></a>
+</p>
 
-</td>
+<p align="center"><i>Open to research collaborations in nested learning, federated systems, and efficient LLM architectures.</i></p>
 
-</tr>
-</table>
-<!-- <a href="https://facebook.com/socialyadept"><img src="https://img.shields.io/badge/-@socialyadept-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
