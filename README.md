@@ -154,10 +154,10 @@ Building live virtual replicas of physical systems — sensor-driven models that
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abraheem13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraheem13&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Abraheem13&theme=tokyonight&hide_border=true" />
