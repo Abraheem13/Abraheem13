@@ -85,7 +85,9 @@ Building live virtual replicas of physical systems — sensor-driven models that
 </tr>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/60/wi-fi-router.png" width="52"/><br><b>6G & Network AI</b><br><sub>Multi-agent RL for slicing and Open-RAN resource allocation</sub>
+<img src="https://img.icons8.com/fluency/60/5g.png" width="52"/><br>
+<b>6G & Network AI</b><br>
+<sub>Multi-agent RL for slicing and Open-RAN resource allocation</sub>
 </td>
 <td width="33%" align="center">
 <img src="https://img.icons8.com/fluency/60/heart-with-pulse.png" width="52"/><br><b>Clinical & Biomedical AI</b><br><sub>ECG classification, vessel segmentation, cross-hospital prediction</sub>
