@@ -75,7 +75,9 @@ Building live virtual replicas of physical systems — sensor-driven models that
 <img src="https://img.icons8.com/fluency/60/artificial-intelligence.png" width="52"/><br><b>Nested Learning</b><br><sub>Layer-wise multi-frequency synchronisation across timescales</sub>
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/60/data-protection.png" width="52"/><br><b>Federated & Privacy</b><br><sub>Federated unlearning, differential privacy, data-rights compliance</sub>
+<img src="https://img.icons8.com/fluency/60/security-checked.png" width="52"/><br>
+<b>Federated & Privacy</b><br>
+<sub>Federated unlearning, differential privacy, data-rights compliance</sub>
 </td>
 <td width="33%" align="center">
 <img src="https://img.icons8.com/fluency/60/chatbot.png" width="52"/><br><b>Agentic & Efficient LLMs</b><br><sub>Orchestration, semantic caching, complexity-aware routing</sub>
