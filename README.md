@@ -171,9 +171,9 @@ Building live virtual replicas of physical systems — sensor-driven models that
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abraheem13&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abraheem13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
+</p> -->
 
 ---
 
