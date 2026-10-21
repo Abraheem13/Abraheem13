@@ -29,7 +29,7 @@
 I build **nested, multi-timescale learning systems** models that learn and synchronise at different frequencies across layers, agents, and devices.
 
 - 🎓 **MSc Artificial Intelligence**, Brunel University London
-- 💼 **AI/ML Software Engineer**, **Electronic Media Services** London
+- 💼 **AI/ML Software Engineer**, **Electronic Media Services**, London
 - 🔬 **AI Researcher & Co-Investigator**, Telecommunications Research Lab (TRL), IBA Karachi
 - 🚗 **AI/ML Engineer**, **Curium** multi-sensor calibration for autonomous perception
 - 🛡️ Formerly **AI Research Engineer**, National CERT (Govt. of Pakistan)
