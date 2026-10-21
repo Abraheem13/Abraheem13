@@ -40,7 +40,7 @@ I build **nested, multi-timescale learning systems** models that learn and synch
 
 ---
 
-## 💼 Currently Building — Electronic Media Services, London
+## 💼 Currently Building at Electronic Media Services, London
 
 > **AI/ML Software Engineer** · Agentic AI & Digital Twin Technologies
 
