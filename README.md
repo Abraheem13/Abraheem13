@@ -49,7 +49,7 @@ I build **nested, multi-timescale learning systems** models that learn and synch
 <td width="50%" valign="top">
 
 ### 🤖 Agentic AI
-Designing autonomous multi-agent systems — planning, tool use, and orchestration layers that let LLM agents reason, delegate, and act reliably in production environments.
+Designing autonomous multi-agent systems planning, tool use, and orchestration layers that let LLM agents reason, delegate, and act reliably in production environments.
 
 `Multi-agent orchestration` `Tool-calling` `Planning & memory` `Evaluation harnesses`
 
@@ -57,7 +57,7 @@ Designing autonomous multi-agent systems — planning, tool use, and orchestrati
 <td width="50%" valign="top">
 
 ### 🌐 Digital Twin Technologies
-Building live virtual replicas of physical systems — sensor-driven models that simulate, predict, and optimise real-world behaviour in real time.
+Building live virtual replicas of physical systems sensor-driven models that simulate, predict, and optimise real-world behaviour in real time.
 
 `Real-time simulation` `Predictive modelling` `Sensor fusion` `Physics-informed ML`
 
