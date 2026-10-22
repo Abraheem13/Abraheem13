@@ -14,11 +14,11 @@
   <a href="mailto:abraheemrashid@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abraheem13&label=Profile%20Views&color=38BDF8&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/Abraheem13?label=Followers&style=flat-square&color=38BDF8" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Nested%20%26%20Multi--Timescale%20Learning-38BDF8?style=flat-square" alt="focus" />
-</p>
+</p> -->
 
 ---
 
